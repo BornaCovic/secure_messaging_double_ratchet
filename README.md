@@ -27,7 +27,3 @@ The project includes a comprehensive unit test suite covering:
 - Replay attack detection
 - Out-of-order message handling
 - Multi-user communication scenarios
-
-Run tests with:
-
-python -m unittest test_messenger.py
